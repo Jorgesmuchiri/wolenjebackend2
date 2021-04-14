@@ -1,0 +1,25 @@
+# Temp files
+*~
+
+# Compile results
+target/**
+project/project/**
+*pyc
+
+**/target/**
+target/**
+target/***
+
+# Rando's
+todo
+.DS_Store
+.idea
+.bloop
+.metals
+.vscode
+
+
+# IML files
+core.iml
+payment.iml
+web.iml
